@@ -6,6 +6,6 @@
 ### 姓名：陳生好
 ### 系級：科技系116
 
-### HW1 個人網站
+## HW1 個人網站
 ### https://mavericksoebroto.github.io/mavericksoebroto/
 
