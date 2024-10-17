@@ -7,5 +7,4 @@
 ### 系級：科技系116
 
 ## 作業繳交區
-### HW1 個人網站
-### https://mavericksoebroto.github.io/mavericksoebroto/
+### HW1 個人網站 : https://mavericksoebroto.github.io/mavericksoebroto/
