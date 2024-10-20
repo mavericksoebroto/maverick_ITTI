@@ -10,10 +10,7 @@
 https://mavericksoebroto.github.io/mavericksoebroto/
 
 ### HW2 React App
-(1) 網頁網址
-
-
-(2) 介紹影片
+介紹影片
 https://drive.google.com/file/d/1aySW18qoOGhgxbAiC_6YaV9iJU6nPH_7/view?usp=sharing
 
 ### HW3
