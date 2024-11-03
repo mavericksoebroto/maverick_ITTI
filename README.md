@@ -13,5 +13,11 @@ https://mavericksoebroto.github.io/maverick_ITTI/
 介紹影片
 https://drive.google.com/file/d/1aySW18qoOGhgxbAiC_6YaV9iJU6nPH_7/view?usp=sharing
 
-### HW3
+### HW3 React 專案範例
+介紹內容簡報
+https://drive.google.com/file/d/1MNCzCwFdK4xeGrKi7idopV6V6QCzdUbj/view?usp=drive_link
+
+介紹影片
+https://drive.google.com/file/d/1qqo1U1Q1dEhesJpId3uTVIqNB9aM8edu/view?usp=drive_link
+
 ### HW4
