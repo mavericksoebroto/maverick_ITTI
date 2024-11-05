@@ -20,4 +20,7 @@ https://drive.google.com/file/d/1MNCzCwFdK4xeGrKi7idopV6V6QCzdUbj/view?usp=drive
 介紹影片
 https://drive.google.com/file/d/1qqo1U1Q1dEhesJpId3uTVIqNB9aM8edu/view?usp=drive_link
 
+### 期末專題的Canva（第十周）
+https://www.canva.com/design/DAGViFSNqz8/BuuPht6aLhhk5wXjWTunQQ/edit?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ### HW4
