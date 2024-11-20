@@ -7,7 +7,8 @@
 
 ## 作業繳交區
 ### HW1 個人網站
-(1) https://mavericksoebroto.github.io/maverick_ITTI/
+(1) 網頁網址
+https://mavericksoebroto.github.io/maverick_ITTI/
 
 ### HW2 React App
 (1) 介紹影片
