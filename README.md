@@ -7,10 +7,10 @@
 
 ## 作業繳交區
 ### HW1 個人網站
-https://mavericksoebroto.github.io/maverick_ITTI/
+(1) https://mavericksoebroto.github.io/maverick_ITTI/
 
 ### HW2 React App
-介紹影片
+(1) 介紹影片
 https://drive.google.com/file/d/1aySW18qoOGhgxbAiC_6YaV9iJU6nPH_7/view?usp=sharing
 
 ### HW3 React 專案範例
