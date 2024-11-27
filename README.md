@@ -24,6 +24,11 @@ https://drive.google.com/file/d/1qqo1U1Q1dEhesJpId3uTVIqNB9aM8edu/view?usp=drive
 (3) 第二支介紹影片
 https://drive.google.com/file/d/1wJmFAPhk-TWE3rZBH7uEp5fxh7ROBaaM/view?usp=sharing
 
+### HW4 使用 Render 部署網頁
+(1) 網頁網址
+https://learning-hub-dashboard-ltns.onrender.com
+
+## 期末專題繳交區
 ### 期末專題的第一次提案（第十周）
 (1) 介紹內容簡報
 https://www.canva.com/design/DAGViFSNqz8/BuuPht6aLhhk5wXjWTunQQ/edit?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
@@ -31,8 +36,6 @@ https://www.canva.com/design/DAGViFSNqz8/BuuPht6aLhhk5wXjWTunQQ/edit?utm_content
 (2) 介紹影片
 https://youtu.be/5SIjZ7eLq1o
 
-### HW4 使用 Render 部署網頁
-(1) 網頁網址
-https://learning-hub-dashboard-ltns.onrender.com
-
-## 期末專題繳交區
+### 期末專題的第二次提案（第十三周）
+(1) 介紹影片
+https://youtu.be/Xln-5uTK-6g
