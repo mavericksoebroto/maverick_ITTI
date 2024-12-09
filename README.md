@@ -39,3 +39,8 @@ https://youtu.be/5SIjZ7eLq1o
 ### 期末專題的第二次提案（第十三周）
 (1) 介紹影片
 https://youtu.be/Xln-5uTK-6g
+
+### 期末專題的第三次提案（第十五周）
+(1) 介紹影片
+https://youtu.be/59s4WuUC0Sk?si=vEIhWXFfvVBvQkIm
+
