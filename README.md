@@ -44,3 +44,9 @@ https://youtu.be/Xln-5uTK-6g
 (1) 介紹影片
 https://youtu.be/59s4WuUC0Sk?si=vEIhWXFfvVBvQkIm
 
+### 期末專題發表（第十六周）
+(1) 介紹影片
+https://youtu.be/b_IYgCwhubA
+
+(2) 網頁網址
+https://final-group-app.onrender.com
